@@ -9,7 +9,7 @@ A comparative implementation of foundational data structures demonstrating manua
 
 ### Tech Stack
 *   **Languages:** C, Python 3
-*   **Environment:** Linux (Ubuntu / WSL 2), GCC compiler
+*   **Environment:** Windows (PowerShell), GCC Compiler / MinGW
 
 ### How to Run
 
